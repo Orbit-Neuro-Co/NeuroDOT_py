@@ -1,0 +1,8 @@
+*.m~
+*.asv
+*.ipynb_checkpoints
+*.ipynb
+test/samples
+test/pyutil/pytenv
+test/*.zip
+exp/

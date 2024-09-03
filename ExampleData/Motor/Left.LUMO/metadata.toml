@@ -1,0 +1,13 @@
+gui_version = '1.0.2'
+liblumo_version = 'v1.0.1'
+lumo_file_version = '0.5.0'
+
+[file_names]
+event_file = 'events.toml'
+hardware_file = 'hardware.toml'
+layout_file = 'layout.json'
+recordingdata_file = 'recordingdata.toml'
+
+[[intensity_files]]
+file_name = 'intensity_00.bin'
+time_range = [ 200, 63800 ]

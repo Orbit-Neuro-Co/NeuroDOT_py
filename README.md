@@ -28,3 +28,6 @@ NeuroDOT_py README
 	2. 'getting_started.ipynb' is the Jupyter notebook for getting acquainted with NeuroDOT_Py. This is the file that you will open in VSCode/Jupter Notebook to run and manipulate the code. 
  
 
+Extras:
+- Download matlab-engine (see: https://pypi.org/project/matlabengine/)
+- Download lumomat (conversions from LUMO to SNIRF)

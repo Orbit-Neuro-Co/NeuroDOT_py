@@ -1,0 +1,11 @@
+*.m~
+*.prepro
+*.rmap
+*.jac
+*.invjac
+*.qm
+~*.pptx
+~*.docx
+*.docx
+*.DS_Store
+.DS_Store

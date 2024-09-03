@@ -1,0 +1,14 @@
+*.m~
+*.prepro
+*.rmap
+*.jac
+*.invjac
+*.qm
+*.dotimg
+*.jpg
+*.txt
+*.nii
+*.nirs
+*.SD
+*.SD3D
+*.DS_Store
