@@ -11,3 +11,6 @@ nibabel==3.2.2
 scikit-learn
 pysnirf2
 ipykernel
+snirf
+# python=3.9
+# install the matlab_engine

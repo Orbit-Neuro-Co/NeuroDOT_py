@@ -33,3 +33,6 @@ dist/neurodot_py-1.0.9.tar.gz
 dist/NeuroDOT_py-1.1.0-py3-none-any.whl
 dist/neurodot_py-1.1.0.tar.gz
 tmpdir/
+__pycache__/
+ExampleData/data/
+src/neuro_dot/__pycache__/
