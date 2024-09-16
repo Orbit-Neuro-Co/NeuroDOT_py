@@ -11,8 +11,7 @@ def LUMO_to_SNIRF(lumo_file_name, output_snirf_file_name):
 
 
 def verify_SNIRF(snirf_file_name):
-    snirf = Snirf(snirf_file_name, 'r')
-    result = validateSnirf(snirf)
-
+    result = validateSnirf(snirf_file_name)
     result.display(severity=3)
+
     assert result, 'Invalid SNIRF file!\n' + result.display()  # Crash and display issues if the file is invalid.
